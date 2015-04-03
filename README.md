@@ -13,7 +13,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'docker-api', :require => 'docker'
-```
+``` 
 
 And then run:
 
